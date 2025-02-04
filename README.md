@@ -76,6 +76,7 @@ This project focuses on forecasting the stock prices of **Goldman Sachs** using 
 - ![Training Predictions](Train.png) ![Training Loss](Tarining_loss.png)
 - **RMSE Score:** Achieved **27.08 RMSE** on the test dataset.
 - **Visualizations:** Comparison of actual vs. predicted stock prices.
+- ![Testing Predictions](Test_Pred.png)
 
 ## 🚀 Future Improvements
 
